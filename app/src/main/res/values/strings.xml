@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">WE 消息</string>
+
+    <string name="message">消息</string>
+
+
+    <string name="contacts">通讯录</string>
+    <string name="app">应用</string>
+    <string name="mine">我</string>
+    <string name="green">"#2BA871"</string>
+
+    <string name="blue">"#51B4EA"</string>
+
+    <string name="login">您已经连续登录</string>
+
+    <string name="username">VIVO</string>
+
+    <string name="community">we社区</string>
+
+    <string name="collect">我的收藏</string>
+
+    <string name="schedule">日程安排</string>
+
+    <string name="setting">设置</string>
+
+    <string name="day">天</string>
+
+    <string name="calendar">日程</string>
+
+    <string name="contackdialog">新建联系人</string>
+
+    <string name="contackname">姓名</string>
+
+    <string name="contacknum">电话</string>
+
+    <string name="cancel">取消</string>
+
+    <string name="complete">完成</string>
+
+    <string name="searchcontack">搜索联系人</string>
+
+    <string name="download">文件上传下载</string>
+
+    <string name="changepassword">修改登录密码</string>
+
+    <string name="reset_password">重置密码</string>
+
+    <string name="original_password">原密码</string>
+
+    <string name="input_original_password">请输入原密码</string>
+
+    <string name="input_password">请输入密码</string>
+
+    <string name="password">密码</string>
+
+    <string name="confirm_password">确认密码</string>
+
+    <string name="confirm_password_again">请再次确认密码</string>
+
+    <string name="login2">登录</string>
+
+    <string name="please_input_username">请输入工号</string>
+
+    <string name="please_input_password">请输入密码</string>
+    
+    <string name="error">密码或用户名错误</string>
+
+    <string name="password_error">输入的密码不一致</string>
+    
+    <string name="empty_password">新密码不能为空</string>
+    
+    <string name="change_password_success">密码修改成功</string>
+
+    <string name="original_password_error">原密码错误</string>
+
+    <string name="login_success">登录成功</string>
+
+    <string name="clock_in">打卡</string>
+
+    <string name="year" >年</string>
+
+    <string name="month">月</string>
+
+    <string name="day2">日</string>
+
+    <string name="clock_in_time">您今天的打卡时间为：</string>
+
+    <string name="clock_in_success">打卡成功</string>
+
+    <string name="is_clock_in">今日已打卡</string>
+
+    <string name="is_clock_in2">已打卡</string>
+
+
+
+</resources>
